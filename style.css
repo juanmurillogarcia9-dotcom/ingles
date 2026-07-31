@@ -231,6 +231,7 @@ main {
     background: rgba(255, 255, 255, 0.14);
     font-size: 0.95rem;
     color: #fcefdc;
+    background: #2222;
 }
 
 body.oscuro .highlights li,
